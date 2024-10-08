@@ -1,0 +1,2 @@
+# sqlQueriesPractice
+SQL basic queries
